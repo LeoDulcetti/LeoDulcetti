@@ -1,5 +1,5 @@
 # <p align="center">Ciao, I'm Leonardo Dulcetti! 👋
-<p align="center">Data Scientist | Madrid, Spain | <a href="https://github.com/LeoDulcetti">Project Portfolio</a> | <a href="https://www.linkedin.com/in/leonardo-dulcetti/">
+<p align="center">Data Scientist | Madrid, Spain | <a href="https://github.com/LeoDulcetti?tab=repositories">Project Portfolio</a> | <a href="https://www.linkedin.com/in/leonardo-dulcetti/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-red" alt="Button Text">
 </a>
 </p> 
