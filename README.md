@@ -25,4 +25,10 @@
 - Intermediate Python (DataCamp)
 - Financial Trading with Python (DataCamp)
 - Cloud Computing (AWS Educate)
-- Machine Learning Foundations (AWS Educate) 
+- Machine Learning Foundations (AWS Educate)
+
+## Languages
+- Italian (Native)
+- Spanish (Fluent)
+- English (Fluent)
+- French  (Intermediate) 
