@@ -6,14 +6,14 @@
 
 
 ## Who I Am
-- I am a multilingual professional student specializing in business analytics and finance, with top-tier education from IE University and the University of Carlos III of Madrid. Currently, I am interning as a Data Scientist at Ryanair Labs, where I apply my expertise in Python, SQL, and R. Through various internships, I have developed a robust analytical skillset and a dedication to excellence that I bring to every team.
+- I am a multilingual professional student specializing in business analytics and finance, with top-tier education from IE University and the University of Carlos III of Madrid. Currently, I am interning as a Data Scientist at IBM Spain, where I apply my expertise in Agentic AI, MCP Servers and Automatization. Through various projects, I have developed a robust analytical skillset and a dedication to excellence that I bring to every team.
 
 ## Technical Skills
 - **Languages:** Python | SQL | R | MATLAB | EViews
-- **Libraries:** pandas | numpy | scikit-learn | TensorFlow | openai | matplotlib | plotly | seaborn | streamlit | keras
-- **Tools and Technologies:** Jupyter | Apache NiFi | Apache Spark | MySQL Workbench | DBeaver | Google Colab | Hadoop 
+- **Libraries:** pandas | numpy | scikit-learn | TensorFlow | openai | matplotlib | plotly | seaborn | streamlit | keras | LangChain | LangGraph | mcp 
+- **Tools and Technologies:** Jupyter | Apache NiFi | Apache Spark | MySQL Workbench | DBeaver | Google Colab | Hadoop | Azure | AWS
 - **Data Visualization:** 📊Tableau | 👀Looker
-- **Database Management Systems:**  🖥MySQL | MongoDB
+- **Database Management Systems:**  🖥MySQL | MongoDB | HeidiSQL | Azure CosmosDB
 
 ## Education
 - Master of Science in Business Analytics and Big Data, IE University 
